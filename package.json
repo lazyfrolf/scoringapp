@@ -1,17 +1,21 @@
 {
-  "name": "tictactoe",
+  "name": "LEGALIZE_RANCH",
   "version": "0.1.0",
   "private": true,
+  "homepage": "www.lazyfrolf.com",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "react-switch": "^5.0.0",
     "react-toggle-switch": "^3.0.4",
+    "typescript": "^3.5.3",
     "write-file-p": "^1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
