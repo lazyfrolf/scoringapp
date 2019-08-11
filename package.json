@@ -2,7 +2,7 @@
   "name": "LEGALIZE_RANCH",
   "version": "0.1.0",
   "private": true,
-  "homepage": "www.lazyfrolf.com",
+  "homepage": "https://www.lazyfrolf.com",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
