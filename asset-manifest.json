@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "www.lazyfrolf.com/static/css/main.df6e1876.chunk.css",
+    "main.js": "www.lazyfrolf.com/static/js/main.0e0ae7ba.chunk.js",
+    "main.js.map": "www.lazyfrolf.com/static/js/main.0e0ae7ba.chunk.js.map",
+    "runtime~main.js": "www.lazyfrolf.com/static/js/runtime~main.fa84894a.js",
+    "runtime~main.js.map": "www.lazyfrolf.com/static/js/runtime~main.fa84894a.js.map",
+    "static/js/2.a9b0a924.chunk.js": "www.lazyfrolf.com/static/js/2.a9b0a924.chunk.js",
+    "static/js/2.a9b0a924.chunk.js.map": "www.lazyfrolf.com/static/js/2.a9b0a924.chunk.js.map",
+    "index.html": "www.lazyfrolf.com/index.html",
+    "precache-manifest.5909f622eb10620de66f49586339adca.js": "www.lazyfrolf.com/precache-manifest.5909f622eb10620de66f49586339adca.js",
+    "service-worker.js": "www.lazyfrolf.com/service-worker.js",
+    "static/css/main.df6e1876.chunk.css.map": "www.lazyfrolf.com/static/css/main.df6e1876.chunk.css.map"
+  }
+}
